@@ -1,0 +1,17 @@
+.common-box{
+    border: 10px solid black;
+    background-color: white;
+    box-sizing: border-box;
+  
+}
+.text-box{
+    background-color: gray;
+    border: 10px solid green;
+    padding: 10px 100px;
+}
+h1{
+    color: white;
+}
+p{
+    color: white;
+}

@@ -1,0 +1,25 @@
+
+.wrapper{
+    border: 1px solid black;
+    padding: 40px;
+}
+.inner-element{
+    border: 3px solid blue;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.inner-element .inner-element__item{
+    display: inline-block;
+    border: 2px solid blue;
+    padding: 5px;
+}
+.inner-element span{
+    border: 2px blue;
+    display: block;
+    padding: 5px;
+}
+.spesific-word{
+    border: 2px solid blue;
+    
+    margin: 10px 0;
+}
